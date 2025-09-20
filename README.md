@@ -1,14 +1,16 @@
 ## ANIMATION : TOMBEE DE LA PLUIE
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
-Construction d'une animation permettant de faire tomber la pluie en utilisant le HTML5, le CSS3 et le JavaScript.
+Construction d'une animation permettant de faire tomber la pluie en HTML5, CSS3 et JavaScript.
 
 ## Démonstration
 
 Lien vers le projet : https://aperbet56.github.io/animation_tombee_de_la_pluie/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS
